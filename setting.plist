@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Infinity Survival Setting File -->
+<plist version="1.0">
+<dict>
+  <key>android_ver</key>
+  <dict>
+    <key>no</key><string>49</string>
+    <key>market_url</key><string>market://details?id=com.nfl.game.kr.sworddance</string>
+  </dict>
+  
+  <key>ios_ver</key>
+  <dict>
+    <key>no</key><string>1</string>
+    <key>market_url</key><string>itms-apps://itunes.apple.com/app/id833426419</string>
+  </dict>
+    
+  <key>check_server</key>
+  <string>http://test.sworddance.net:7200/</string>
+  
+  <key>battle_zone</key>
+  <array>
+    <dict>
+      <key>index</key><integer>0</integer>
+      <key>name</key><string>ASIA 1</string>
+      <key>addr</key><string>127.0.0.1</string>
+      <key>port</key><integer>7000</integer>
+      <key>addr_full</key><string>127.0.0.1:7000</string>
+      <key>status</key><integer>1</integer>
+    </dict>
+    <dict>
+      <key>index</key><integer>1</integer>
+      <key>name</key><string>ASIA 2</string>
+      <key>addr</key><string>127.0.0.1</string>
+      <key>port</key><integer>7000</integer>
+      <key>addr_full</key><string>127.0.0.1:7000</string>
+      <key>status</key><integer>1</integer>
+    </dict>
+      <dict>
+      <key>index</key><integer>3</integer>
+      <key>name</key><string>US 1</string>
+      <key>addr</key><string>127.0.0.1</string>
+      <key>port</key><integer>7000</integer>
+      <key>addr_full</key><string>127.0.0.1:7000</string>
+      <key>status</key><integer>1</integer>
+    </dict>
+      <dict>
+      <key>index</key><integer>4</integer>
+      <key>name</key><string>US 2</string>
+      <key>addr</key><string>127.0.0.1</string>
+      <key>port</key><integer>7000</integer>
+      <key>addr_full</key><string>127.0.0.1:7000</string>
+      <key>status</key><integer>1</integer>
+  </array>
+  
+  <key>patch</key>
+  <dict>
+	  <key>version</key>
+	  <integer>0</integer>  
+    <key>ZipPath</key>
+	  <string>https://github.com/vladubogdan/LevelHelper2-Cocos2d-X.v3/archive/develop.zip</string>
+  </dict>    
+  
+	<key>popup</key>
+	<array>
+    <dict>
+  	  <key>name</key><string>name1</string>
+  	  <key>url</key><string>http://www.naver.com</string>
+    </dict> 
+  </array>
+</dict>
+</plist>
