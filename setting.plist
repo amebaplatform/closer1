@@ -36,7 +36,7 @@
       <key>addr_full</key><string>127.0.0.1:7000</string>
       <key>status</key><integer>1</integer>
     </dict>
-      <dict>
+    <dict>
       <key>index</key><integer>2</integer>
       <key>name</key><string>US 1</string>
       <key>addr</key><string>127.0.0.1</string>
@@ -44,25 +44,24 @@
       <key>addr_full</key><string>127.0.0.1:7000</string>
       <key>status</key><integer>1</integer>
     </dict>
-      <dict>
+    <dict>
       <key>index</key><integer>3</integer>
       <key>name</key><string>US 2</string>
       <key>addr</key><string>127.0.0.1</string>
       <key>port</key><integer>7000</integer>
       <key>addr_full</key><string>127.0.0.1:7000</string>
       <key>status</key><integer>1</integer>
+    </dict>
   </array>
   
   <key>patch</key>
   <dict>
-	  <key>version</key>
-	  <integer>0</integer>  
-    <key>ZipPath</key>
-	  <string>https://github.com/vladubogdan/LevelHelper2-Cocos2d-X.v3/archive/develop.zip</string>
+    <key>version</key> <integer>0</integer>  
+    <key>ZipPath</key><string>https://github.com/vladubogdan/LevelHelper2-Cocos2d-X.v3/archive/develop.zip</string>
   </dict>    
   
-	<key>popup</key>
-	<array>
+  <key>popup</key>
+  <array>
     <dict>
   	  <key>name</key><string>name1</string>
   	  <key>url</key><string>http://www.naver.com</string>
