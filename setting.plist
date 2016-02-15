@@ -37,7 +37,7 @@
       <key>status</key><integer>1</integer>
     </dict>
       <dict>
-      <key>index</key><integer>3</integer>
+      <key>index</key><integer>2</integer>
       <key>name</key><string>US 1</string>
       <key>addr</key><string>127.0.0.1</string>
       <key>port</key><integer>7000</integer>
@@ -45,7 +45,7 @@
       <key>status</key><integer>1</integer>
     </dict>
       <dict>
-      <key>index</key><integer>4</integer>
+      <key>index</key><integer>3</integer>
       <key>name</key><string>US 2</string>
       <key>addr</key><string>127.0.0.1</string>
       <key>port</key><integer>7000</integer>
