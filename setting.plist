@@ -27,6 +27,7 @@
       <key>port</key><integer>7000</integer>
       <key>addr_full</key><string>127.0.0.1:7000</string>
       <key>status</key><integer>1</integer>
+      <key>max</key><integer>1000</integer>
     </dict>
     <dict>
       <key>index</key><integer>1</integer>
@@ -35,6 +36,7 @@
       <key>port</key><integer>7001</integer>
       <key>addr_full</key><string>127.0.0.1:7001</string>
       <key>status</key><integer>1</integer>
+      <key>max</key><integer>1000</integer>
     </dict>
     <dict>
       <key>index</key><integer>2</integer>
@@ -43,6 +45,7 @@
       <key>port</key><integer>7002</integer>
       <key>addr_full</key><string>127.0.0.1:7002</string>
       <key>status</key><integer>1</integer>
+      <key>max</key><integer>1000</integer>
     </dict>
   </array>
   
