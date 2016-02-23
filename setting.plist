@@ -49,6 +49,26 @@
     </dict>
   </array>
   
+  <key>battle_map</key>
+  <array>
+    <dict>
+      <key>index</key><integer>0</integer>
+      <key>name</key><string>BattleZoneMap_1.xml</string>
+    </dict>
+    <dict>
+      <key>index</key><integer>1</integer>
+      <key>name</key><string>BattleZoneMap_1.xml</string>
+    </dict>
+    <dict>
+      <key>index</key><integer>2</integer>
+      <key>name</key><string>BattleZoneMap_1.xml</string>
+    </dict>
+    <dict>
+      <key>index</key><integer>3</integer>
+      <key>name</key><string>BattleZoneMap_1.xml</string>
+    </dict>    
+  </array>
+  
   <key>patch</key>
   <dict>
     <key>version</key> <integer>0</integer>  
