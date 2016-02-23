@@ -49,7 +49,7 @@
     </dict>
   </array>
   
-  <key>battle_map</key>
+  <key>battle_mapinfo</key>
   <array>
     <dict>
       <key>index</key><integer>0</integer>
