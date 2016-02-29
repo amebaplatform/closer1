@@ -24,7 +24,7 @@
       <key>index</key><integer>0</integer>
       <key>name</key><string>ASIA</string>
       <key>addr</key><string>127.0.0.1</string>
-      <key>port</key><integer>7000</integer>
+      <key>port</key><string>7000</string>
       <key>addr_full</key><string>127.0.0.1:7000</string>
       <key>status</key><integer>1</integer>
       <key>max</key><integer>1000</integer>
@@ -33,7 +33,7 @@
       <key>index</key><integer>1</integer>
       <key>name</key><string>NORTH AMERICA</string>
       <key>addr</key><string>127.0.0.1</string>
-      <key>port</key><integer>7001</integer>
+      <key>port</key><string>7001</string>
       <key>addr_full</key><string>127.0.0.1:7001</string>
       <key>status</key><integer>1</integer>
       <key>max</key><integer>1000</integer>
@@ -42,7 +42,7 @@
       <key>index</key><integer>2</integer>
       <key>name</key><string>EUROPE</string>
       <key>addr</key><string>127.0.0.1</string>
-      <key>port</key><integer>7002</integer>
+      <key>port</key><string>7002</string>
       <key>addr_full</key><string>127.0.0.1:7002</string>
       <key>status</key><integer>1</integer>
       <key>max</key><integer>1000</integer>
